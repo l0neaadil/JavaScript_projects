@@ -16,4 +16,6 @@ GAME RULES:
  provides an option to set the winning score.
 
 ## Let's Play :
+- In order to play the game, click on the link:
+
    https://l0neaadil.github.io/JavaScript_projects/01_Pig_Game/index.html
